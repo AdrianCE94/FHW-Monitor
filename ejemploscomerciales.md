@@ -24,7 +24,8 @@ A la hora de elegir un monitor, es importante considerar varios aspectos para ga
 
 >TAMAÑO
 
-![comparativa5](img/tamaño_monitor.png)
+![comparativa5](img/tamaño_monitor.jpg)
+
 
 
 ## Ejemplos destacados de monitores para cada necesidad:
@@ -38,7 +39,7 @@ A la hora de elegir un monitor, es importante considerar varios aspectos para ga
   
 - **Tasa de Refresco:** Mínimo 144Hz para una experiencia fluida, preferiblemente 240Hz o más para juegos de ritmo rápido.
   
-- **Tiempo de Respuesta:** Idealmente 1ms o 2ms para evitar el desenfoque de movimiento en juegos intensos.
+- **Tiempo de Respuesta:**  1ms o 2ms para evitar el desenfoque de movimiento en juegos intensos.
 
   [Gigabyte G27QC 27" LED QuadHD 165Hz Curva](https://www.pccomponentes.com/gigabyte-g27qc-27-led-quadhd-165hz-curva)
 
