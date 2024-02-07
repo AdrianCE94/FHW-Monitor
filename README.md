@@ -1,5 +1,4 @@
-# 🖥️ Monitores: 
-## Todo lo que Necesitas Saber
+# 🖥️ Monitores:Todo lo que Necesitas Saber
 
 ¡Bienvenido al fascinante mundo de los monitores! Este README te guiará a través de todo lo que necesitas saber sobre estos dispositivos esenciales para tu experiencia informática.
 
