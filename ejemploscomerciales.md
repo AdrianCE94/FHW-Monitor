@@ -41,11 +41,11 @@ A la hora de elegir un monitor, es importante considerar varios aspectos para ga
   
 - **Tiempo de Respuesta:**  1ms o 2ms para evitar el desenfoque de movimiento en juegos intensos.
 
-  [Gigabyte G27QC 27" LED QuadHD 165Hz Curva](https://www.pccomponentes.com/gigabyte-g27qc-27-led-quadhd-165hz-curva)
+  1)[Gigabyte G27QC 27" LED QuadHD 165Hz Curva](https://www.pccomponentes.com/gigabyte-g27qc-27-led-quadhd-165hz-curva)
 
 ![gigabyte](img/gigabyte1.png)
 
-  [ASUS TUF Gaming VG27AQZ 27" LED IPS WQHD 165Hz G-Sync Compatible](https://www.pccomponentes.com/asus-tuf-gaming-vg27aqz-27-led-ips-wqhd-165hz-g-sync-compatible)
+2)[ASUS TUF Gaming VG27AQZ 27" LED IPS WQHD 165Hz G-Sync Compatible](https://www.pccomponentes.com/asus-tuf-gaming-vg27aqz-27-led-ips-wqhd-165hz-g-sync-compatible)
 
 ![tuf](img/tuf1.png)
   
