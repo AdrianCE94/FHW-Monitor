@@ -5,8 +5,11 @@ A la hora de elegir un monitor, es importante considerar varios aspectos para ga
 >ejemplo : si compro un monitor 4k pero tengo un pc poco potente, no vamos a sacar el maximo partido a nuestro monitor.
 ## ASPECTOS A TENER EN CUENTA 
 >RES
+
 ![comparativa3](img/res.png)
+
 >TIPO PANEL
+
 ![comparativa2](img/desventajaspng.png)
 
 >TASA REFRESCO
