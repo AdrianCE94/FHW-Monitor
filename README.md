@@ -2,8 +2,7 @@
 
 ## Tabla de Contenidos
 
-- [MONITORES](#monitores)
-  - [Tabla de Contenidos](#tabla-de-contenidos)
+
 - [Bienvenido al Increíble Mundo de los Monitores 🖥️](#bienvenido-al-increíble-mundo-de-los-monitores-️)
   - [🌟 Características Principales](#-características-principales)
   - [🚀 Tipos de Monitores](#-tipos-de-monitores)
