@@ -2,8 +2,8 @@
 
 ## Tabla de Contenidos
 
-[Historia de los monitores](https://www.youtube.com/watch?v=5saFuMdOJQc)
 - [Bienvenido al Increíble Mundo de los Monitores 🖥️](#bienvenido-al-increíble-mundo-de-los-monitores-️)
+  -[Historia de los monitores](https://www.youtube.com/watch?v=5saFuMdOJQc)
   - [🌟 Características Principales](#-características-principales)
   - [🚀 Tipos de Monitores](#-tipos-de-monitores)
   - [🌈 Tecnologías de Pantalla](#-tecnologías-de-pantalla)
