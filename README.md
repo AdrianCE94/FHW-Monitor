@@ -2,6 +2,7 @@
 
 Este repositorio está dedicado a recopilar información relevante sobre monitores, incluyendo su historia, definición, características principales, tipos, tecnologías de pantalla, ejemplos comerciales y conclusiones.
 
+Read in [Español](./LEEME.md) 
 ## Índice
 
 1. [Presentación del Repositorio](#presentación-del-repositorio)
