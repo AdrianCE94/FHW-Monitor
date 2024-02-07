@@ -14,9 +14,6 @@ El objetivo principal de este repositorio es proporcionar un recurso completo y 
 ## Índice
 
 📜 **Historia Breve**
-
----
-
 Los monitores, también conocidos como pantallas, surgieron en la década de 1950 con la tecnología de tubo de rayos catódicos (CRT). En 1981, IBM introdujo los monitores monocromáticos MDA y los monitores a color CGA. La evolución continuó con el estándar VGA en 1987, que marcó el comienzo de la era de los gráficos de alta resolución.
 
 ![historia](img/historia.png)
