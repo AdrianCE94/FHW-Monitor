@@ -2,7 +2,7 @@
 
 ¡Bienvenido al fascinante mundo de los monitores! Este README te guiará a través de todo lo que necesitas saber sobre estos dispositivos esenciales para tu experiencia informática.
 
-## 📜 Breve Historia
+## 📜 [Breve Historia](https://www.youtube.com/watch?v=5saFuMdOJQc)
 
 Descubre cómo evolucionaron los monitores desde sus humildes comienzos hasta los elegantes paneles de alta resolución que conocemos hoy en día.
 
