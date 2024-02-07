@@ -1,6 +1,7 @@
 ## CONCLUSIONS
 ![per](img/perifericos.jpg)
-**Importance of monitors. It is an essential peripheral.**
+
+-**Importance of monitors. It is an essential peripheral.**
 
 - **Diversity of options**
 
