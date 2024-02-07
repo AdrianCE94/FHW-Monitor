@@ -22,11 +22,11 @@ Sumérgete en el mundo de los diferentes tipos de monitores, desde los tradicion
 
 Descubre las tecnologías de pantalla más emocionantes que hacen posible una experiencia visual impresionante, desde LED hasta Quantum Dot y más.
 
-## 🌐 Ejemplos Comerciales
+## 🌐 [Ejemplos Comerciales](ejemploscomerciales.md)
 
 Explora algunos ejemplos comerciales populares de monitores que destacan en el mercado actual, desde modelos económicos hasta dispositivos de gama alta.
 
-## 💡 Conclusiones
+## 💡 [Conclusiones](conclusiones.md)
 
 Concluye tu viaje por el mundo de los monitores con algunas reflexiones finales y consejos útiles para elegir el monitor perfecto para tus necesidades.
 
