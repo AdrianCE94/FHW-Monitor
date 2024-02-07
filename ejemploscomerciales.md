@@ -45,7 +45,7 @@ A la hora de elegir un monitor, es importante considerar varios aspectos para ga
 
 ![gigabyte](img/gigabyte1.png)
 
-2)[ASUS TUF Gaming VG27AQZ 27" LED IPS WQHD 165Hz G-Sync Compatible](https://www.pccomponentes.com/asus-tuf-gaming-vg27aqz-27-led-ips-wqhd-165hz-g-sync-compatible)
+  2)[ASUS TUF Gaming VG27AQZ 27" LED IPS WQHD 165Hz G-Sync Compatible](https://www.pccomponentes.com/asus-tuf-gaming-vg27aqz-27-led-ips-wqhd-165hz-g-sync-compatible)
 
 ![tuf](img/tuf1.png)
   
