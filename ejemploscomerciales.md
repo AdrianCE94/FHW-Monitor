@@ -1,33 +1,86 @@
-# Ejemplos Comerciales de Monitores y Cómo Elegir el Correcto
+## ANTES DE ELEGIR UN MONITOR
 
-## 1. Cómo Elegir un Monitor:
-   - Factores a Considerar:
-     - **Resolución:** Determina la claridad de la imagen.
-     - **Tamaño del Panel:** Influencia en la experiencia visual y el espacio de trabajo.
-     - **Tipo de Panel:** TN para gaming rápido, IPS para colores precisos, VA para un equilibrio entre ambos.
-     - **Frecuencia de Actualización:** Importante para gaming y multimedia.
-     - **Conectividad:** Asegura la compatibilidad con tu equipo.
-     - **Ergonomía:** Ajustes de altura, inclinación y rotación para comodidad.
-     - **Características Adicionales:** HDR, tecnología de sincronización adaptativa, etc.
-   
-## 2. Ejemplos Comerciales:
-   ### Monitores para Consolas:
-   - **Modelo X (Consola):**
-     - Resolución Full HD.
-     - Tiempo de respuesta rápido para gaming fluido.
-     - Puertos HDMI compatibles con consolas de última generación.
-   ### Monitores para PC:
-   - **Modelo Y (PC):**
-     - Resolución 4K para una experiencia visual inmersiva.
-     - Tecnología IPS para colores precisos y ángulos de visión amplios.
-     - Alta frecuencia de actualización para gaming suave.
-   ### Monitores para PCs de Oficina:
-   - **Modelo Z (Oficina):**
-     - Resolución Full HD para productividad.
-     - Diseño ergonómico con ajustes de altura y rotación.
-     - Modo de filtro de luz azul para reducir la fatiga ocular durante largas horas de trabajo.
+A la hora de elegir un monitor, es importante considerar varios aspectos para garantizar una experiencia de visualización óptima.Cabe destacar que la maquina que vayas a usar para utilizar el monitor debe ir acorde a la gama de pantalla que elijas
 
-## Resumen
-  - Al elegir un monitor, considera tus necesidades específicas, ya sea gaming, trabajo, entretenimiento, etc.
-  - No te limites a la gama alta; hay opciones excelentes en gamas medias y bajas que pueden adaptarse a tus requerimientos.
-  - Investiga y compara diferentes modelos antes de tomar una decisión final para asegurarte de obtener el mejor valor por tu dinero.Valora las reseñas.
+>ejemplo : si compro un monitor 4k pero tengo un pc poco potente, no vamos a sacar el maximo partido a nuestro monitor.
+## ASPECTOS A TENER EN CUENTA 
+>RES
+![comparativa3](img/res.png)
+>TIPO PANEL
+![comparativa2](img/desventajaspng.png)
+
+>TASA REFRESCO
+
+| Tasa de Refresco | Descripción                                   |
+|------------------|-----------------------------------------------|
+| 60Hz             | Estándar común, adecuado para tareas generales|
+| 75Hz             | Mayor suavidad en la visualización            |
+| 120Hz            | Mejora significativa en juegos y contenido multimedia |
+| 144Hz            | Experiencia de juego ultra fluida             |
+| 240Hz            | Ideal para juegos de alta velocidad y competición |
+
+>TAMAÑO
+
+![comparativa5](img/tamaño_monitor.png)
+
+
+## Ejemplos destacados de monitores para cada necesidad:
+![comparativa](img/comparativa.jpg)
+
+
+ 
+ 💻 **Para PC Gaming:**
+
+- **Resolución:** Mínimo 1920x1080 (Full HD), preferiblemente 2560x1440 (Quad HD) o 3840x2160 (Ultra HD / 4K).
+  
+- **Tasa de Refresco:** Mínimo 144Hz para una experiencia fluida, preferiblemente 240Hz o más para juegos de ritmo rápido.
+  
+- **Tiempo de Respuesta:** Idealmente 1ms o 2ms para evitar el desenfoque de movimiento en juegos intensos.
+
+  [Gigabyte G27QC 27" LED QuadHD 165Hz Curva](https://www.pccomponentes.com/gigabyte-g27qc-27-led-quadhd-165hz-curva)
+
+![gigabyte](img/gigabyte1.png)
+
+  [ASUS TUF Gaming VG27AQZ 27" LED IPS WQHD 165Hz G-Sync Compatible](https://www.pccomponentes.com/asus-tuf-gaming-vg27aqz-27-led-ips-wqhd-165hz-g-sync-compatible)
+
+![tuf](img/tuf1.png)
+  
+🎮 **Por Consola(General):**
+
+- **Tamaño:** 16:9
+- **Frecuencia:** 60-144 Hz
+- **Tecnologías:** FreeSync (AMD)
+- **Tiempo de respuesta(tiempo en reaccionar un pixel) e input lag(tiempo en reaccionar el monitor cuando entra la imagen)**
+
+- 🎮PS5 
+  - **Tecnología de Sincronización:** Compatible con HDMI 2.1 para aprovechar al máximo las capacidades de la PS5, incluida la compatibilidad con 4K a 120Hz y la tecnología de sincronización variable (VRR).
+
+
+  [GIGABYTE AORUS](https://www.pccomponentes.com/gigabyte-aorus-fv43u-43-qled-ultrahd-4k-144hz-usb-c)
+
+![aorus](img/aorus.png)
+
+- 🎮Xbox
+- **Requisitos 1080x1920/30hz/27HZ/27"**
+
+- 🎮Nintendo
+- **Requisitos 1080x1920/30hz/27HZ/27"/IPS** 
+
+
+📊 **Para Trabajar:** 
+  
+- [Philips 243V7QDSB 23.8" LED IPS FullHD 75Hz](https://www.pccomponentes.com/philips-243v7qdsb-238-led-ips-fullhd-75hz)
+
+![philips](img/philips.png)
+
+
+
+
+
+
+
+
+
+
+
+[![Volver al README](img/seccion.png)](README.md)

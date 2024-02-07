@@ -34,9 +34,11 @@ Los monitores, también conocidos como pantallas, surgieron en la década de 195
 
 🖥️ [Tecnologías de Pantalla](#tecnologías-de-pantalla)
 
-🌐 [Ejemplos Comerciales](#ejemplos-comerciales)
+🌐 [Ejemplos Comerciales](ejemploscomerciales.md)
 
 🔍 [Conclusiones](#conclusiones)
+
+![paneles](img/paneles.jpg)
  
 ## AUTORES
 
