@@ -23,6 +23,7 @@ The main goal of this repository is to provide a comprehensive and detailed reso
 Monitors, also known as displays, emerged in the 1950s with cathode ray tube (CRT) technology. In 1981, IBM introduced MDA monochrome monitors and CGA color monitors. The evolution continued with the VGA standard in 1987, which ushered in the era of high-resolution graphics.
 
 ![story](img/historia.png)
+
 🔍 [Definition](#definition)
 
 💻 [Types of Monitors](#types-of-monitors)
