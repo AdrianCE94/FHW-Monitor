@@ -1,41 +1,46 @@
-# MONITORES
+# 🖥️ Monitores: Todo lo que Necesitas Saber
 
-## Tabla de Contenidos
+¡Bienvenido al fascinante mundo de los monitores! Este README te guiará a través de todo lo que necesitas saber sobre estos dispositivos esenciales para tu experiencia informática.
 
-- [Bienvenido al Increíble Mundo de los Monitores 🖥️](#bienvenido-al-increíble-mundo-de-los-monitores-️)
+## 📜 Breve Historia
 
-   -[Historia de los monitores](https://www.youtube.com/watch?v=5saFuMdOJQc)
-  - [🌟 Características Principales](#-características-principales)
-  - [🚀 Tipos de Monitores](#-tipos-de-monitores)
-  - [🌈 Tecnologías de Pantalla](#-tecnologías-de-pantalla)
-  - [🌐 Ejemplos Comerciales](#-ejemplos-comerciales)
-  - [💡 Conclusiones](#-conclusiones)
+Descubre cómo evolucionaron los monitores desde sus humildes comienzos hasta los elegantes paneles de alta resolución que conocemos hoy en día.
 
----
+## 🎯 Definición
 
-# Bienvenido al Increíble Mundo de los Monitores 🖥️
-
-¡Hola, amigo explorador de la tecnología visual! Si estás aquí, es porque te apasiona el mundo de los monitores tanto como a nosotros. ¡Prepárate para un viaje emocionante a través de la galaxia de los píxeles y las tecnologías de pantalla!
+Los monitores, también conocidos como pantallas de visualización o pantallas de computadora, son dispositivos de salida que muestran información generada por una computadora u otro dispositivo electrónico. Estas pantallas pueden variar en tamaño, resolución, tecnología de pantalla y otras características, y desempeñan un papel crucial en la interacción usuario-computadora.
 
 ## 🌟 Características Principales
 
-En esta sección, exploraremos las características más sobresalientes de nuestros amados monitores. Desde la resolución hasta la frecuencia de actualización, aquí encontrarás todo lo que necesitas saber para elegir el monitor perfecto para tus necesidades.
+Explora las características más destacadas que hacen que un monitor sea excepcional, desde la resolución hasta la tasa de actualización y más.
 
 ## 🚀 Tipos de Monitores
 
-¿Sabías que hay más tipos de monitores de los que podrías imaginar? Desde los clásicos monitores LCD hasta las deslumbrantes pantallas OLED, cada tipo tiene su propia historia que contar y su lugar en el universo de la visualización.
+Sumérgete en el mundo de los diferentes tipos de monitores, desde los tradicionales monitores LCD hasta los ultramodernos monitores OLED y más allá.
 
 ## 🌈 Tecnologías de Pantalla
 
-¡Prepárate para sumergirte en un arco iris de tecnologías de pantalla! Desde LED hasta QLED, cada tecnología tiene sus propias ventajas y desafíos. ¡Descubre cuál es la adecuada para ti y haz que tus colores brillen!
+Descubre las tecnologías de pantalla más emocionantes que hacen posible una experiencia visual impresionante, desde LED hasta Quantum Dot y más.
 
 ## 🌐 Ejemplos Comerciales
 
-En esta sección, exploraremos algunos ejemplos comerciales de los mejores monitores del mercado. Desde los gigantes establecidos hasta las nuevas estrellas emergentes, te mostraremos qué monitores están marcando tendencia en la galaxia de la tecnología visual.
+Explora algunos ejemplos comerciales populares de monitores que destacan en el mercado actual, desde modelos económicos hasta dispositivos de gama alta.
 
 ## 💡 Conclusiones
 
-Y así, llegamos al final de nuestro viaje. Esperamos que hayas disfrutado explorando el increíble mundo de los monitores tanto como nosotros. Recuerda, la próxima vez que te enfrentes a la pantalla de elección, ¡estarás armado con el conocimiento necesario para tomar la mejor decisión!
+Concluye tu viaje por el mundo de los monitores con algunas reflexiones finales y consejos útiles para elegir el monitor perfecto para tus necesidades.
 
----
+¡Esperamos que este README te haya proporcionado una visión clara y emocionante del apasionante universo de los monitores! ¡Disfruta explorando y aprendiendo más sobre estos increíbles dispositivos!
+## AUTORES
 
+* :pushpin: [Álvarez Padilla, David Manuel](https://github.com/DavidPadilla24)
+* :pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
+* :pushpin: [David Sánchez Caicedo](https://github.com/davidlinesc)
+## LICENCIA
+
+
+ <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+
+[![Forks proyecto](https://img.shields.io/badge/Forks-yellow)](https://github.com/AdrianCE94/informatica-ambiental/forks)
+[![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/AdrianCE94/informatica-ambiental/activity)
+[![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/AdrianCE94/informatica-ambiental/graphs/contributors)
