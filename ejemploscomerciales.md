@@ -26,6 +26,9 @@ A la hora de elegir un monitor, es importante considerar varios aspectos para ga
 
 ![comparativa5](img/tamaño_monitor.jpg)
 
+>RELACION DE ASPECTO
+
+![comparativa6](img/relacion-aspecto-monitores.png)
 
 
 ## Ejemplos destacados de monitores para cada necesidad:
