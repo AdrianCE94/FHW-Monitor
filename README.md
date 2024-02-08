@@ -56,7 +56,7 @@ Los monitores, también conocidos como pantallas, surgieron en la década de 195
 [![Forks proyecto](https://img.shields.io/badge/Forks-yellow)](https://github.com/AdrianCE94/informatica-ambiental/forks)
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/AdrianCE94/informatica-ambiental/activity)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/AdrianCE94/informatica-ambiental/graphs/contributors)
-![.io pages](https://github.com/AdrianCE94/FHW-Monitor/deployments)
+[.io pages](https://github.com/AdrianCE94/FHW-Monitor/deployments)
  Leer este repositorio / Change Language
 - [🇪🇸 Español](README.md)
 - [🇬🇧 English](README_EN.md)
