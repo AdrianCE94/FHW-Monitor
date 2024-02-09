@@ -19,6 +19,10 @@ El objetivo principal de este repositorio es proporcionar un recurso completo y 
 <a href="https://www.youtube.com/watch?v=Q9y6BLIjXWo" target="_blank">
   <img src="img/watchnow.png" alt="Video Aquí" width="200px">
 </a>
+<a href="google.es" target="_blank">
+    <img src="ruta/a/la/imagen.jpg" alt="Descripción de la imagen">
+</a>
+
 
 
 
