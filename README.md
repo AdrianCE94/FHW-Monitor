@@ -3,7 +3,7 @@
 
 > "Bienvenido al mundo de los monitores: desde su evolución histórica hasta las últimas tecnologías y tendencias en pantallas de visualización."
 
-## 🎯Objetivos
+## 🎯 Objetivos
 
 El objetivo principal de este repositorio es proporcionar un recurso completo y detallado sobre los monitores, abordando los siguientes aspectos clave:
 - **Definición**
