@@ -68,8 +68,7 @@ Xataka es un sitio web de tecnología que ofrece análisis y reseñas sobre una 
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/AdrianCE94/informatica-ambiental/activity)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-green)](https://github.com/AdrianCE94/informatica-ambiental/graphs/contributors)
 
-[.io pages](https://github.com/AdrianCE94/FHW-Monitor/deployments)
- 
+
  Leer este repositorio / Change Language
 - [🇪🇸 Español](README.md)
 - [🇬🇧 English](README_EN.md)
