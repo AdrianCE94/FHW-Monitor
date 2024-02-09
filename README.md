@@ -40,6 +40,8 @@ Los monitores, también conocidos como pantallas, surgieron en la década de 195
 
 🔍 [Conclusiones](conclusiones.md)
 
+## WEBGRAFÍA
+[PcComponentes](https://www.pccomponentes.com/) ofrece un amplio catálogo de monitores de marcas conocidas como LG, Samsung, Dell, Asus, AOC, HP o BenQ. Puedes elegir entre monitores gaming FreeSync o G-Sync, monitores 4K y una gran variedad de opciones económicas.
 
  
 ## AUTORES
