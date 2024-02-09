@@ -47,7 +47,10 @@ Ofrece un amplio catálogo de monitores de marcas conocidas como LG, Samsung, De
 
 [XATAKA](https://www.xataka.com/)
 
+Xataka es un sitio web de tecnología que ofrece análisis y reseñas sobre una amplia gama de periféricos, desde ratones y teclados hasta monitores y auriculares, ayudando a los usuarios a tomar decisiones informadas en sus compras.
+
 [CHATGPT](https://chat.openai.com/)
+[COPILOT](https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx)
  
 ## AUTORES
 
