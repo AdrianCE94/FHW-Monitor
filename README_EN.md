@@ -24,15 +24,15 @@ Monitors, also known as displays, emerged in the 1950s with cathode ray tube (CR
 
 ![story](img/historia.png)
 
-🔍 [Definition](#definition)
+🔍 [Definition](def.md)
 
-💻 [Types of Monitors](#types-of-monitors)
+💻 [Types of Monitors](panel.md)
 
-⚙️ [Main Features](#main-features)
+⚙️ [Main Features](specs.md)
 
-🖥️ [Screen Technologies](#screen-technologies)
+🖥️ [Screen Technologies](screentech.md)
 
-🌐 [Commercial Examples](#commercial-examples)
+🌐 [Commercial Examples](ex.md)
 
 🔍 [Conclusions](conclusions.md)
  

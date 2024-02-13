@@ -1,5 +1,4 @@
 ## ANTES DE ELEGIR UN MONITOR
-
 A la hora de elegir un monitor, es importante considerar varios aspectos para garantizar una experiencia de visualización óptima.Cabe destacar que la maquina que vayas a usar para utilizar el monitor debe ir acorde a la gama de pantalla que elijas
 
 >ejemplo : si compro un monitor 4k pero tengo un pc poco potente, no vamos a sacar el maximo partido a nuestro monitor.
